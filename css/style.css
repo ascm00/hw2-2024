@@ -47,16 +47,16 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid white;
-    border-left: 5px solid white;
+    border-bottom-width: 2px;
+    border-left-width: 5px;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px solid white;
-    border-right: 5px solid white;
+    border-top-width: 2px;
+    border-right-width: 5px;
 }
 
 .blue > h2 {
@@ -71,8 +71,8 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid white;
-    border-left: 5px solid white;
+    border-bottom-width: 2px;
+    border-left-width: 5px;
 }
 
 .yellow > p {
@@ -83,8 +83,8 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px solid white;
-    border-right: 5px solid white;
+    border-top-width: 2px;
+    border-right-width: 5px;
 }
 
 footer {
